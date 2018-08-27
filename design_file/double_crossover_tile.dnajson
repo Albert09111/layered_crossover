@@ -1,0 +1,2272 @@
+{
+  "bases": [
+    {
+      "id": 0,
+      "position": [-3.16793, 0.636111, 1.47604],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 104,
+      "up": 40,
+      "down": 1
+    },
+    {
+      "id": 1,
+      "position": [-3.49993, 1.02513, 1.03311],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 158,
+      "up": 0,
+      "down": 2
+    },
+    {
+      "id": 2,
+      "position": [-3.83193, 1.09704, 0.448001],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 159,
+      "up": 1,
+      "down": 3
+    },
+    {
+      "id": 3,
+      "position": [-4.16393, 0.826858, -0.0759477],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 160,
+      "up": 2,
+      "down": 4
+    },
+    {
+      "id": 4,
+      "position": [-4.49593, 0.30847, -0.356653],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 161,
+      "up": 3,
+      "down": 5
+    },
+    {
+      "id": 5,
+      "position": [-4.82793, -0.27797, -0.296564],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 162,
+      "up": 4,
+      "down": 6
+    },
+    {
+      "id": 6,
+      "position": [-5.15993, -0.72866, 0.0834367],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 163,
+      "up": 5,
+      "down": 7
+    },
+    {
+      "id": 7,
+      "position": [-5.49193, -0.886976, 0.651291],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 164,
+      "up": 6,
+      "down": 8
+    },
+    {
+      "id": 8,
+      "position": [-5.82393, -0.697899, 1.20966],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 165,
+      "up": 7,
+      "down": 9
+    },
+    {
+      "id": 9,
+      "position": [-6.15593, -0.227137, 1.56449],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 166,
+      "up": 8,
+      "down": 10
+    },
+    {
+      "id": 10,
+      "position": [-6.50393, 0.361719, 1.59247],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 167,
+      "up": 9,
+      "down": null
+    },
+    {
+      "id": 11,
+      "position": [-6.5, 1.39772, -2.16306],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 157,
+      "up": null,
+      "down": 12
+    },
+    {
+      "id": 12,
+      "position": [-6.15099, 1.60141, -1.58567],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 156,
+      "up": 11,
+      "down": 13
+    },
+    {
+      "id": 13,
+      "position": [-5.81984, 1.39071, -1.03459],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 155,
+      "up": 12,
+      "down": 14
+    },
+    {
+      "id": 14,
+      "position": [-5.49008, 0.905847, -0.697077],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 154,
+      "up": 13,
+      "down": 15
+    },
+    {
+      "id": 15,
+      "position": [-5.16094, 0.314774, -0.690454],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 153,
+      "up": 14,
+      "down": 16
+    },
+    {
+      "id": 16,
+      "position": [-4.83142, -0.177662, -1.01706],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 152,
+      "up": 15,
+      "down": 17
+    },
+    {
+      "id": 17,
+      "position": [-4.50067, -0.400886, -1.56343],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 151,
+      "up": 16,
+      "down": 18
+    },
+    {
+      "id": 18,
+      "position": [-4.16824, -0.277882, -2.13972],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 150,
+      "up": 17,
+      "down": 19
+    },
+    {
+      "id": 19,
+      "position": [-3.8343, 0.148044, -2.5457],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 149,
+      "up": 18,
+      "down": 20
+    },
+    {
+      "id": 20,
+      "position": [-3.49952, 0.728314, -2.6403],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 148,
+      "up": 19,
+      "down": 21
+    },
+    {
+      "id": 21,
+      "position": [-3.16485, 1.26071, -2.3907],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 103,
+      "up": 20,
+      "down": 22
+    },
+    {
+      "id": 22,
+      "position": [-2.83125, 1.55966, -1.88367],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 102,
+      "up": 21,
+      "down": 23
+    },
+    {
+      "id": 23,
+      "position": [-2.49925, 1.52071, -1.29545],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 101,
+      "up": 22,
+      "down": 24
+    },
+    {
+      "id": 24,
+      "position": [-2.16887, 1.15683, -0.830487],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 100,
+      "up": 23,
+      "down": 25
+    },
+    {
+      "id": 25,
+      "position": [-1.83953, 0.593925, -0.650413],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 99,
+      "up": 24,
+      "down": 26
+    },
+    {
+      "id": 26,
+      "position": [-1.51033, 0.0270574, -0.817839],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 98,
+      "up": 25,
+      "down": 27
+    },
+    {
+      "id": 27,
+      "position": [-1.18028, -0.347334, -1.27462],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 97,
+      "up": 26,
+      "down": 48
+    },
+    {
+      "id": 28,
+      "position": [1.14807, -0.697896, 1.20966],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 110,
+      "up": 90,
+      "down": 29
+    },
+    {
+      "id": 29,
+      "position": [0.816073, -0.227134, 1.56449],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 109,
+      "up": 28,
+      "down": 30
+    },
+    {
+      "id": 30,
+      "position": [0.484073, 0.361712, 1.59248],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 108,
+      "up": 29,
+      "down": 31
+    },
+    {
+      "id": 31,
+      "position": [0.152073, 0.864003, 1.28389],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 107,
+      "up": 30,
+      "down": 32
+    },
+    {
+      "id": 32,
+      "position": [-0.179927, 1.10518, 0.745973],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 106,
+      "up": 31,
+      "down": 33
+    },
+    {
+      "id": 33,
+      "position": [-0.511927, 1.00144, 0.165664],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 105,
+      "up": 32,
+      "down": 34
+    },
+    {
+      "id": 34,
+      "position": [-0.843927, 0.588818, -0.255368],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 47,
+      "up": 33,
+      "down": 35
+    },
+    {
+      "id": 35,
+      "position": [-1.17593, 0.0107206, -0.370804],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 46,
+      "up": 34,
+      "down": 36
+    },
+    {
+      "id": 36,
+      "position": [-1.50793, -0.531954, -0.140529],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 45,
+      "up": 35,
+      "down": 37
+    },
+    {
+      "id": 37,
+      "position": [-1.83993, -0.850613, 0.355433],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 44,
+      "up": 36,
+      "down": 38
+    },
+    {
+      "id": 38,
+      "position": [-2.17193, -0.834517, 0.944724],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 43,
+      "up": 37,
+      "down": 39
+    },
+    {
+      "id": 39,
+      "position": [-2.50393, -0.489259, 1.42255],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 42,
+      "up": 38,
+      "down": 40
+    },
+    {
+      "id": 40,
+      "position": [-2.83593, 0.0651772, 1.62286],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 41,
+      "up": 39,
+      "down": 0
+    },
+    {
+      "id": 41,
+      "position": [-2.83593, 0.710572, -0.177568],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 40,
+      "up": null,
+      "down": 42
+    },
+    {
+      "id": 42,
+      "position": [-2.50393, 1.05821, 0.298531],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 39,
+      "up": 41,
+      "down": 43
+    },
+    {
+      "id": 43,
+      "position": [-2.17193, 1.07724, 0.887734],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 38,
+      "up": 42,
+      "down": 44
+    },
+    {
+      "id": 44,
+      "position": [-1.83993, 0.76106, 1.38528],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 37,
+      "up": 43,
+      "down": 45
+    },
+    {
+      "id": 45,
+      "position": [-1.50793, 0.219541, 1.61826],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 36,
+      "up": 44,
+      "down": 46
+    },
+    {
+      "id": 46,
+      "position": [-1.17593, -0.359124, 1.50571],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 35,
+      "up": 45,
+      "down": 47
+    },
+    {
+      "id": 47,
+      "position": [-0.843927, -0.773838, 1.08674],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 34,
+      "up": 46,
+      "down": 105
+    },
+    {
+      "id": 48,
+      "position": [-0.848711, -0.399699, -1.86204],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 96,
+      "up": 27,
+      "down": 49
+    },
+    {
+      "id": 49,
+      "position": [-0.515473, -0.1124, -2.376],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 95,
+      "up": 48,
+      "down": 50
+    },
+    {
+      "id": 50,
+      "position": [-0.180998, 0.414163, -2.63792],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 94,
+      "up": 49,
+      "down": 51
+    },
+    {
+      "id": 51,
+      "position": [0.153853, 0.996437, -2.55682],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 93,
+      "up": 50,
+      "down": 52
+    },
+    {
+      "id": 52,
+      "position": [0.488087, 1.43151, -2.16091],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 92,
+      "up": 51,
+      "down": 53
+    },
+    {
+      "id": 53,
+      "position": [0.820927, 1.56763, -1.58782],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 91,
+      "up": 52,
+      "down": 54
+    },
+    {
+      "id": 54,
+      "position": [1.15208, 1.35692, -1.03674],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 121,
+      "up": 53,
+      "down": 55
+    },
+    {
+      "id": 55,
+      "position": [1.48184, 0.872066, -0.699222],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 122,
+      "up": 54,
+      "down": 56
+    },
+    {
+      "id": 56,
+      "position": [1.81098, 0.280992, -0.692597],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 123,
+      "up": 55,
+      "down": 57
+    },
+    {
+      "id": 57,
+      "position": [2.1405, -0.211444, -1.0192],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 124,
+      "up": 56,
+      "down": 58
+    },
+    {
+      "id": 58,
+      "position": [2.47125, -0.434671, -1.56557],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 125,
+      "up": 57,
+      "down": 59
+    },
+    {
+      "id": 59,
+      "position": [2.80367, -0.311669, -2.14186],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 126,
+      "up": 58,
+      "down": 60
+    },
+    {
+      "id": 60,
+      "position": [3.13762, 0.114255, -2.54784],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 127,
+      "up": 59,
+      "down": 61
+    },
+    {
+      "id": 61,
+      "position": [3.4724, 0.694524, -2.64245],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 128,
+      "up": 60,
+      "down": 62
+    },
+    {
+      "id": 62,
+      "position": [3.80706, 1.22692, -2.39285],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 129,
+      "up": 61,
+      "down": 63
+    },
+    {
+      "id": 63,
+      "position": [4.14067, 1.52587, -1.88582],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 130,
+      "up": 62,
+      "down": 64
+    },
+    {
+      "id": 64,
+      "position": [4.47267, 1.48692, -1.2976],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 131,
+      "up": 63,
+      "down": 65
+    },
+    {
+      "id": 65,
+      "position": [4.80305, 1.12305, -0.832636],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 132,
+      "up": 64,
+      "down": 66
+    },
+    {
+      "id": 66,
+      "position": [5.13238, 0.560147, -0.652558],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 133,
+      "up": 65,
+      "down": 67
+    },
+    {
+      "id": 67,
+      "position": [5.46159, -0.00672184, -0.819979],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 134,
+      "up": 66,
+      "down": 68
+    },
+    {
+      "id": 68,
+      "position": [5.79164, -0.381117, -1.27675],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 135,
+      "up": 67,
+      "down": 69
+    },
+    {
+      "id": 69,
+      "position": [6.12321, -0.433486, -1.86418],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 136,
+      "up": 68,
+      "down": 70
+    },
+    {
+      "id": 70,
+      "position": [6.45645, -0.14619, -2.37814],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 137,
+      "up": 69,
+      "down": 71
+    },
+    {
+      "id": 71,
+      "position": [6.79092, 0.38037, -2.64007],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 138,
+      "up": 70,
+      "down": 72
+    },
+    {
+      "id": 72,
+      "position": [7.12577, 0.962645, -2.55897],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 139,
+      "up": 71,
+      "down": 171
+    },
+    {
+      "id": 73,
+      "position": [7.12407, 0.864008, 1.28388],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 140,
+      "up": 170,
+      "down": 74
+    },
+    {
+      "id": 74,
+      "position": [6.79207, 1.10518, 0.745965],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 141,
+      "up": 73,
+      "down": 75
+    },
+    {
+      "id": 75,
+      "position": [6.46007, 1.00143, 0.165657],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 142,
+      "up": 74,
+      "down": 76
+    },
+    {
+      "id": 76,
+      "position": [6.12807, 0.588811, -0.255372],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 143,
+      "up": 75,
+      "down": 77
+    },
+    {
+      "id": 77,
+      "position": [5.79607, 0.0107133, -0.370804],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 144,
+      "up": 76,
+      "down": 78
+    },
+    {
+      "id": 78,
+      "position": [5.46407, -0.531959, -0.140524],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 145,
+      "up": 77,
+      "down": 79
+    },
+    {
+      "id": 79,
+      "position": [5.13207, -0.850615, 0.35544],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 146,
+      "up": 78,
+      "down": 80
+    },
+    {
+      "id": 80,
+      "position": [4.80007, -0.834515, 0.94473],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 147,
+      "up": 79,
+      "down": 81
+    },
+    {
+      "id": 81,
+      "position": [4.46807, -0.489254, 1.42255],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 120,
+      "up": 80,
+      "down": 82
+    },
+    {
+      "id": 82,
+      "position": [4.13607, 0.0651831, 1.62286],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 119,
+      "up": 81,
+      "down": 83
+    },
+    {
+      "id": 83,
+      "position": [3.80407, 0.636116, 1.47603],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 118,
+      "up": 82,
+      "down": 84
+    },
+    {
+      "id": 84,
+      "position": [3.47207, 1.02513, 1.0331],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 117,
+      "up": 83,
+      "down": 85
+    },
+    {
+      "id": 85,
+      "position": [3.14007, 1.09704, 0.447996],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 116,
+      "up": 84,
+      "down": 86
+    },
+    {
+      "id": 86,
+      "position": [2.80807, 0.826855, -0.0759506],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 115,
+      "up": 85,
+      "down": 87
+    },
+    {
+      "id": 87,
+      "position": [2.47607, 0.308465, -0.356654],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 114,
+      "up": 86,
+      "down": 88
+    },
+    {
+      "id": 88,
+      "position": [2.14407, -0.277974, -0.296562],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 113,
+      "up": 87,
+      "down": 89
+    },
+    {
+      "id": 89,
+      "position": [1.81207, -0.728663, 0.0834405],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 112,
+      "up": 88,
+      "down": 90
+    },
+    {
+      "id": 90,
+      "position": [1.48007, -0.886976, 0.651295],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 111,
+      "up": 89,
+      "down": 28
+    },
+    {
+      "id": 91,
+      "position": [0.812046, -0.293138, -1.14561],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 53,
+      "up": 121,
+      "down": 92
+    },
+    {
+      "id": 92,
+      "position": [0.482279, 0.143174, -0.747325],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 52,
+      "up": 91,
+      "down": 108
+    },
+    {
+      "id": 93,
+      "position": [0.153136, 0.728253, -0.663108],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 51,
+      "up": 107,
+      "down": 94
+    },
+    {
+      "id": 94,
+      "position": [-0.176374, 1.25933, -0.922191],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 50,
+      "up": 93,
+      "down": 95
+    },
+    {
+      "id": 95,
+      "position": [-0.507115, 1.55241, -1.4345],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 49,
+      "up": 94,
+      "down": 96
+    },
+    {
+      "id": 96,
+      "position": [-0.839524, 1.50619, -2.02197],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 48,
+      "up": 95,
+      "down": 97
+    },
+    {
+      "id": 97,
+      "position": [-1.17346, 1.1373, -2.48039],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 27,
+      "up": 96,
+      "down": 98
+    },
+    {
+      "id": 98,
+      "position": [-1.50824, 0.57449, -2.65043],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 26,
+      "up": 97,
+      "down": 99
+    },
+    {
+      "id": 99,
+      "position": [-1.84291, 0.0139124, -2.47295],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 25,
+      "up": 98,
+      "down": 100
+    },
+    {
+      "id": 100,
+      "position": [-2.17653, -0.349062, -2.0096],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 24,
+      "up": 99,
+      "down": 101
+    },
+    {
+      "id": 101,
+      "position": [-2.50854, -0.387732, -1.42137],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 23,
+      "up": 100,
+      "down": 102
+    },
+    {
+      "id": 102,
+      "position": [-2.83893, -0.0880995, -0.912637],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 22,
+      "up": 101,
+      "down": 103
+    },
+    {
+      "id": 103,
+      "position": [-3.16827, 0.446265, -0.660172],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 21,
+      "up": 102,
+      "down": 148
+    },
+    {
+      "id": 104,
+      "position": [-3.16793, 0.155144, -0.37511],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 0,
+      "up": 158,
+      "down": null
+    },
+    {
+      "id": 105,
+      "position": [-0.511927, -0.880476, 0.506952],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 33,
+      "up": 47,
+      "down": 106
+    },
+    {
+      "id": 106,
+      "position": [-0.179927, -0.641981, -0.0321603],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 32,
+      "up": 105,
+      "down": 107
+    },
+    {
+      "id": 107,
+      "position": [0.152073, -0.141235, -0.343247],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 31,
+      "up": 106,
+      "down": 93
+    },
+    {
+      "id": 108,
+      "position": [0.484073, 0.447743, -0.318199],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 30,
+      "up": 92,
+      "down": 109
+    },
+    {
+      "id": 109,
+      "position": [0.816073, 0.920269, 0.0342802],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 29,
+      "up": 108,
+      "down": 110
+    },
+    {
+      "id": 110,
+      "position": [1.14807, 1.11213, 0.591695],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 28,
+      "up": 109,
+      "down": 111
+    },
+    {
+      "id": 111,
+      "position": [1.48007, 0.95665, 1.16033],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 90,
+      "up": 110,
+      "down": 112
+    },
+    {
+      "id": 112,
+      "position": [1.81207, 0.507862, 1.54258],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 89,
+      "up": 111,
+      "down": 113
+    },
+    {
+      "id": 113,
+      "position": [2.14407, -0.0782698, 1.60559],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 88,
+      "up": 112,
+      "down": 114
+    },
+    {
+      "id": 114,
+      "position": [2.47607, -0.598053, 1.32748],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 87,
+      "up": 113,
+      "down": 115
+    },
+    {
+      "id": 115,
+      "position": [2.80807, -0.870851, 0.804884],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 86,
+      "up": 114,
+      "down": 116
+    },
+    {
+      "id": 116,
+      "position": [3.14007, -0.801859, 0.219425],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 85,
+      "up": 115,
+      "down": 117
+    },
+    {
+      "id": 117,
+      "position": [3.47207, -0.415055, -0.22544],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 84,
+      "up": 116,
+      "down": 118
+    },
+    {
+      "id": 118,
+      "position": [3.80407, 0.155138, -0.37511],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 83,
+      "up": 117,
+      "down": null
+    },
+    {
+      "id": 119,
+      "position": [4.13607, 0.710567, -0.177572],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 82,
+      "up": null,
+      "down": 120
+    },
+    {
+      "id": 120,
+      "position": [4.46807, 1.05821, 0.298525],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 81,
+      "up": 119,
+      "down": 147
+    },
+    {
+      "id": 121,
+      "position": [1.14321, -0.429612, -1.71959],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 54,
+      "up": 122,
+      "down": 91
+    },
+    {
+      "id": 122,
+      "position": [1.47607, -0.219381, -2.26982],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 55,
+      "up": 123,
+      "down": 121
+    },
+    {
+      "id": 123,
+      "position": [1.81031, 0.263937, -2.60513],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 56,
+      "up": 124,
+      "down": 122
+    },
+    {
+      "id": 124,
+      "position": [2.14516, 0.851819, -2.60902],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 57,
+      "up": 125,
+      "down": 123
+    },
+    {
+      "id": 125,
+      "position": [2.47963, 1.3394, -2.28018],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 58,
+      "up": 126,
+      "down": 124
+    },
+    {
+      "id": 126,
+      "position": [2.81285, 1.55669, -1.73291],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 59,
+      "up": 127,
+      "down": 125
+    },
+    {
+      "id": 127,
+      "position": [3.14441, 1.4276, -1.15746],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 60,
+      "up": 128,
+      "down": 126
+    },
+    {
+      "id": 128,
+      "position": [3.47445, 0.996436, -0.75382],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 61,
+      "up": 129,
+      "down": 127
+    },
+    {
+      "id": 129,
+      "position": [3.80365, 0.412485, -0.662316],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 62,
+      "up": 130,
+      "down": 128
+    },
+    {
+      "id": 130,
+      "position": [4.13299, -0.121881, -0.914778],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 63,
+      "up": 131,
+      "down": 129
+    },
+    {
+      "id": 131,
+      "position": [4.46338, -0.421516, -1.42351],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 64,
+      "up": 132,
+      "down": 130
+    },
+    {
+      "id": 132,
+      "position": [4.79539, -0.382849, -2.01174],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 65,
+      "up": 133,
+      "down": 131
+    },
+    {
+      "id": 133,
+      "position": [5.12901, -0.0198789, -2.47509],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 66,
+      "up": 134,
+      "down": 132
+    },
+    {
+      "id": 134,
+      "position": [5.46368, 0.540697, -2.65257],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 67,
+      "up": 135,
+      "down": 133
+    },
+    {
+      "id": 135,
+      "position": [5.79846, 1.10351, -2.48254],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 68,
+      "up": 136,
+      "down": 134
+    },
+    {
+      "id": 136,
+      "position": [6.13239, 1.4724, -2.02412],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 69,
+      "up": 137,
+      "down": 135
+    },
+    {
+      "id": 137,
+      "position": [6.4648, 1.51862, -1.43665],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 70,
+      "up": 138,
+      "down": 136
+    },
+    {
+      "id": 138,
+      "position": [6.79554, 1.22555, -0.924341],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 71,
+      "up": 139,
+      "down": 137
+    },
+    {
+      "id": 139,
+      "position": [7.12505, 0.694475, -0.665254],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 72,
+      "up": 140,
+      "down": 138
+    },
+    {
+      "id": 140,
+      "position": [7.12407, -0.141242, -0.343245],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 73,
+      "up": 141,
+      "down": 139
+    },
+    {
+      "id": 141,
+      "position": [6.79207, -0.641986, -0.0321548],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 74,
+      "up": 142,
+      "down": 140
+    },
+    {
+      "id": 142,
+      "position": [6.46007, -0.880477, 0.506959],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 75,
+      "up": 143,
+      "down": 141
+    },
+    {
+      "id": 143,
+      "position": [6.12807, -0.773834, 1.08674],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 76,
+      "up": 144,
+      "down": 142
+    },
+    {
+      "id": 144,
+      "position": [5.79607, -0.359118, 1.50571],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 77,
+      "up": 145,
+      "down": 143
+    },
+    {
+      "id": 145,
+      "position": [5.46407, 0.219548, 1.61826],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 78,
+      "up": 146,
+      "down": 144
+    },
+    {
+      "id": 146,
+      "position": [5.13207, 0.761066, 1.38527],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 79,
+      "up": 147,
+      "down": 145
+    },
+    {
+      "id": 147,
+      "position": [4.80007, 1.07724, 0.887728],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 80,
+      "up": 120,
+      "down": 146
+    },
+    {
+      "id": 148,
+      "position": [-3.49747, 1.03022, -0.751674],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 20,
+      "up": 103,
+      "down": 149
+    },
+    {
+      "id": 149,
+      "position": [-3.82751, 1.46138, -1.15531],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 19,
+      "up": 148,
+      "down": 150
+    },
+    {
+      "id": 150,
+      "position": [-4.15907, 1.59047, -1.73077],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 18,
+      "up": 149,
+      "down": 151
+    },
+    {
+      "id": 151,
+      "position": [-4.49229, 1.37319, -2.27803],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 17,
+      "up": 150,
+      "down": 152
+    },
+    {
+      "id": 152,
+      "position": [-4.82676, 0.885609, -2.60687],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 16,
+      "up": 151,
+      "down": 153
+    },
+    {
+      "id": 153,
+      "position": [-5.16161, 0.297727, -2.60299],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 15,
+      "up": 152,
+      "down": 154
+    },
+    {
+      "id": 154,
+      "position": [-5.49585, -0.185593, -2.26768],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 14,
+      "up": 153,
+      "down": 155
+    },
+    {
+      "id": 155,
+      "position": [-5.82871, -0.395827, -1.71745],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 13,
+      "up": 154,
+      "down": 156
+    },
+    {
+      "id": 156,
+      "position": [-6.15987, -0.259354, -1.14347],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 12,
+      "up": 155,
+      "down": 157
+    },
+    {
+      "id": 157,
+      "position": [-6.5058, 0.109395, -0.749467],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 11,
+      "up": 156,
+      "down": 167
+    },
+    {
+      "id": 158,
+      "position": [-3.49993, -0.415051, -0.225442],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 1,
+      "up": 159,
+      "down": 104
+    },
+    {
+      "id": 159,
+      "position": [-3.83193, -0.801857, 0.219421],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 2,
+      "up": 160,
+      "down": 158
+    },
+    {
+      "id": 160,
+      "position": [-4.16393, -0.870851, 0.80488],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 3,
+      "up": 161,
+      "down": 159
+    },
+    {
+      "id": 161,
+      "position": [-4.49593, -0.598056, 1.32747],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 4,
+      "up": 162,
+      "down": 160
+    },
+    {
+      "id": 162,
+      "position": [-4.82793, -0.0782744, 1.60559],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 5,
+      "up": 163,
+      "down": 161
+    },
+    {
+      "id": 163,
+      "position": [-5.15993, 0.507858, 1.54258],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 6,
+      "up": 164,
+      "down": 162
+    },
+    {
+      "id": 164,
+      "position": [-5.49193, 0.956648, 1.16034],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 7,
+      "up": 165,
+      "down": 163
+    },
+    {
+      "id": 165,
+      "position": [-5.82393, 1.11213, 0.591699],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 8,
+      "up": 166,
+      "down": 164
+    },
+    {
+      "id": 166,
+      "position": [-6.15593, 0.920271, 0.034283],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 9,
+      "up": 167,
+      "down": 165
+    },
+    {
+      "id": 167,
+      "position": [-6.50393, 0.447736, -0.318201],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 10,
+      "up": 157,
+      "down": 166
+    },
+    {
+      "id": 168,
+      "position": [8.13418, -0.697896, 1.17076],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 214,
+      "up": 209,
+      "down": 169
+    },
+    {
+      "id": 169,
+      "position": [7.80218, -0.227134, 1.52559],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 213,
+      "up": 168,
+      "down": 170
+    },
+    {
+      "id": 170,
+      "position": [7.47018, 0.361712, 1.55357],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 212,
+      "up": 169,
+      "down": 73
+    },
+    {
+      "id": 171,
+      "position": [7.47419, 1.43151, -2.19981],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 211,
+      "up": 72,
+      "down": 172
+    },
+    {
+      "id": 172,
+      "position": [7.80703, 1.56763, -1.62672],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 210,
+      "up": 171,
+      "down": 173
+    },
+    {
+      "id": 173,
+      "position": [8.13818, 1.35692, -1.07564],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 225,
+      "up": 172,
+      "down": 174
+    },
+    {
+      "id": 174,
+      "position": [8.46794, 0.872066, -0.738124],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 226,
+      "up": 173,
+      "down": 175
+    },
+    {
+      "id": 175,
+      "position": [8.79708, 0.280992, -0.731499],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 227,
+      "up": 174,
+      "down": 176
+    },
+    {
+      "id": 176,
+      "position": [9.1266, -0.211444, -1.0581],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 228,
+      "up": 175,
+      "down": 177
+    },
+    {
+      "id": 177,
+      "position": [9.45735, -0.434671, -1.60447],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 229,
+      "up": 176,
+      "down": 178
+    },
+    {
+      "id": 178,
+      "position": [9.78978, -0.311669, -2.18076],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 230,
+      "up": 177,
+      "down": 179
+    },
+    {
+      "id": 179,
+      "position": [10.1237, 0.114255, -2.58674],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 231,
+      "up": 178,
+      "down": 180
+    },
+    {
+      "id": 180,
+      "position": [10.4585, 0.694524, -2.68135],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 232,
+      "up": 179,
+      "down": 181
+    },
+    {
+      "id": 181,
+      "position": [10.7932, 1.22692, -2.43175],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 233,
+      "up": 180,
+      "down": 182
+    },
+    {
+      "id": 182,
+      "position": [11.1268, 1.52587, -1.92472],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 234,
+      "up": 181,
+      "down": 183
+    },
+    {
+      "id": 183,
+      "position": [11.4588, 1.48692, -1.3365],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 235,
+      "up": 182,
+      "down": 184
+    },
+    {
+      "id": 184,
+      "position": [11.7892, 1.12305, -0.871538],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 236,
+      "up": 183,
+      "down": 185
+    },
+    {
+      "id": 185,
+      "position": [12.1185, 0.560147, -0.69146],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 237,
+      "up": 184,
+      "down": 186
+    },
+    {
+      "id": 186,
+      "position": [12.4477, -0.00672184, -0.858881],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 238,
+      "up": 185,
+      "down": 187
+    },
+    {
+      "id": 187,
+      "position": [12.7777, -0.381117, -1.31565],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 239,
+      "up": 186,
+      "down": 188
+    },
+    {
+      "id": 188,
+      "position": [13.1093, -0.433486, -1.90308],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 240,
+      "up": 187,
+      "down": 189
+    },
+    {
+      "id": 189,
+      "position": [13.4425, -0.14619, -2.41704],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 241,
+      "up": 188,
+      "down": 190
+    },
+    {
+      "id": 190,
+      "position": [13.777, 0.38037, -2.67897],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 242,
+      "up": 189,
+      "down": 191
+    },
+    {
+      "id": 191,
+      "position": [14.1119, 0.962645, -2.59787],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 243,
+      "up": 190,
+      "down": null
+    },
+    {
+      "id": 192,
+      "position": [14.1102, 0.864008, 1.24498],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 244,
+      "up": null,
+      "down": 193
+    },
+    {
+      "id": 193,
+      "position": [13.7782, 1.10518, 0.707064],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 245,
+      "up": 192,
+      "down": 194
+    },
+    {
+      "id": 194,
+      "position": [13.4462, 1.00143, 0.126755],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 246,
+      "up": 193,
+      "down": 195
+    },
+    {
+      "id": 195,
+      "position": [13.1142, 0.588811, -0.294273],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 247,
+      "up": 194,
+      "down": 196
+    },
+    {
+      "id": 196,
+      "position": [12.7822, 0.0107133, -0.409705],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 248,
+      "up": 195,
+      "down": 197
+    },
+    {
+      "id": 197,
+      "position": [12.4502, -0.531959, -0.179426],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 249,
+      "up": 196,
+      "down": 198
+    },
+    {
+      "id": 198,
+      "position": [12.1182, -0.850615, 0.316538],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 250,
+      "up": 197,
+      "down": 199
+    },
+    {
+      "id": 199,
+      "position": [11.7862, -0.834515, 0.905828],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 251,
+      "up": 198,
+      "down": 200
+    },
+    {
+      "id": 200,
+      "position": [11.4542, -0.489254, 1.38365],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 224,
+      "up": 199,
+      "down": 201
+    },
+    {
+      "id": 201,
+      "position": [11.1222, 0.0651831, 1.58396],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 223,
+      "up": 200,
+      "down": 202
+    },
+    {
+      "id": 202,
+      "position": [10.7902, 0.636116, 1.43713],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 222,
+      "up": 201,
+      "down": 203
+    },
+    {
+      "id": 203,
+      "position": [10.4582, 1.02513, 0.994202],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 221,
+      "up": 202,
+      "down": 204
+    },
+    {
+      "id": 204,
+      "position": [10.1262, 1.09704, 0.409095],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 220,
+      "up": 203,
+      "down": 205
+    },
+    {
+      "id": 205,
+      "position": [9.79418, 0.826855, -0.114852],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 219,
+      "up": 204,
+      "down": 206
+    },
+    {
+      "id": 206,
+      "position": [9.46218, 0.308465, -0.395556],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 218,
+      "up": 205,
+      "down": 207
+    },
+    {
+      "id": 207,
+      "position": [9.13018, -0.277974, -0.335464],
+      "molecule": "DNA",
+      "type": "Uracil",
+      "across": 217,
+      "up": 206,
+      "down": 208
+    },
+    {
+      "id": 208,
+      "position": [8.79818, -0.728663, 0.0445387],
+      "molecule": "DNA",
+      "type": "Cytosine",
+      "across": 216,
+      "up": 207,
+      "down": 209
+    },
+    {
+      "id": 209,
+      "position": [8.46618, -0.886976, 0.612393],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 215,
+      "up": 208,
+      "down": 168
+    },
+    {
+      "id": 210,
+      "position": [7.79815, -0.293138, -1.18451],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 172,
+      "up": 225,
+      "down": 211
+    },
+    {
+      "id": 211,
+      "position": [7.46838, 0.143174, -0.786227],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 171,
+      "up": 210,
+      "down": 212
+    },
+    {
+      "id": 212,
+      "position": [7.47018, 0.447743, -0.3571],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 170,
+      "up": 211,
+      "down": 213
+    },
+    {
+      "id": 213,
+      "position": [7.80218, 0.920269, -0.00462159],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 169,
+      "up": 212,
+      "down": 214
+    },
+    {
+      "id": 214,
+      "position": [8.13418, 1.11213, 0.552793],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 168,
+      "up": 213,
+      "down": 215
+    },
+    {
+      "id": 215,
+      "position": [8.46618, 0.95665, 1.12143],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 209,
+      "up": 214,
+      "down": 216
+    },
+    {
+      "id": 216,
+      "position": [8.79818, 0.507862, 1.50368],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 208,
+      "up": 215,
+      "down": 217
+    },
+    {
+      "id": 217,
+      "position": [9.13018, -0.0782698, 1.56669],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 207,
+      "up": 216,
+      "down": 218
+    },
+    {
+      "id": 218,
+      "position": [9.46218, -0.598053, 1.28858],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 206,
+      "up": 217,
+      "down": 219
+    },
+    {
+      "id": 219,
+      "position": [9.79418, -0.870851, 0.765982],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 205,
+      "up": 218,
+      "down": 220
+    },
+    {
+      "id": 220,
+      "position": [10.1262, -0.801859, 0.180523],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 204,
+      "up": 219,
+      "down": 221
+    },
+    {
+      "id": 221,
+      "position": [10.4582, -0.415055, -0.264341],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 203,
+      "up": 220,
+      "down": 222
+    },
+    {
+      "id": 222,
+      "position": [10.7902, 0.155138, -0.414012],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 202,
+      "up": 221,
+      "down": null
+    },
+    {
+      "id": 223,
+      "position": [11.1222, 0.710567, -0.216474],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 201,
+      "up": null,
+      "down": 224
+    },
+    {
+      "id": 224,
+      "position": [11.4542, 1.05821, 0.259624],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 200,
+      "up": 223,
+      "down": 251
+    },
+    {
+      "id": 225,
+      "position": [8.12932, -0.429612, -1.75849],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 173,
+      "up": 226,
+      "down": 210
+    },
+    {
+      "id": 226,
+      "position": [8.46217, -0.219381, -2.30872],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 174,
+      "up": 227,
+      "down": 225
+    },
+    {
+      "id": 227,
+      "position": [8.79641, 0.263937, -2.64403],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 175,
+      "up": 228,
+      "down": 226
+    },
+    {
+      "id": 228,
+      "position": [9.13126, 0.851819, -2.64792],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 176,
+      "up": 229,
+      "down": 227
+    },
+    {
+      "id": 229,
+      "position": [9.46573, 1.3394, -2.31908],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 177,
+      "up": 230,
+      "down": 228
+    },
+    {
+      "id": 230,
+      "position": [9.79896, 1.55669, -1.77182],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 178,
+      "up": 231,
+      "down": 229
+    },
+    {
+      "id": 231,
+      "position": [10.1305, 1.4276, -1.19636],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 179,
+      "up": 232,
+      "down": 230
+    },
+    {
+      "id": 232,
+      "position": [10.4606, 0.996436, -0.792722],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 180,
+      "up": 233,
+      "down": 231
+    },
+    {
+      "id": 233,
+      "position": [10.7898, 0.412485, -0.701218],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 181,
+      "up": 234,
+      "down": 232
+    },
+    {
+      "id": 234,
+      "position": [11.1191, -0.121881, -0.95368],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 182,
+      "up": 235,
+      "down": 233
+    },
+    {
+      "id": 235,
+      "position": [11.4495, -0.421516, -1.46241],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 183,
+      "up": 236,
+      "down": 234
+    },
+    {
+      "id": 236,
+      "position": [11.7815, -0.382849, -2.05064],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 184,
+      "up": 237,
+      "down": 235
+    },
+    {
+      "id": 237,
+      "position": [12.1151, -0.0198789, -2.51399],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 185,
+      "up": 238,
+      "down": 236
+    },
+    {
+      "id": 238,
+      "position": [12.4498, 0.540697, -2.69148],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 186,
+      "up": 239,
+      "down": 237
+    },
+    {
+      "id": 239,
+      "position": [12.7846, 1.10351, -2.52144],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 187,
+      "up": 240,
+      "down": 238
+    },
+    {
+      "id": 240,
+      "position": [13.1185, 1.4724, -2.06302],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 188,
+      "up": 241,
+      "down": 239
+    },
+    {
+      "id": 241,
+      "position": [13.4509, 1.51862, -1.47556],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 189,
+      "up": 242,
+      "down": 240
+    },
+    {
+      "id": 242,
+      "position": [13.7816, 1.22555, -0.963242],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 190,
+      "up": 243,
+      "down": 241
+    },
+    {
+      "id": 243,
+      "position": [14.1112, 0.694475, -0.704155],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 191,
+      "up": 244,
+      "down": 242
+    },
+    {
+      "id": 244,
+      "position": [14.1102, -0.141242, -0.382147],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 192,
+      "up": 245,
+      "down": 243
+    },
+    {
+      "id": 245,
+      "position": [13.7782, -0.641986, -0.0710565],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 193,
+      "up": 246,
+      "down": 244
+    },
+    {
+      "id": 246,
+      "position": [13.4462, -0.880477, 0.468058],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 194,
+      "up": 247,
+      "down": 245
+    },
+    {
+      "id": 247,
+      "position": [13.1142, -0.773834, 1.04784],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 195,
+      "up": 248,
+      "down": 246
+    },
+    {
+      "id": 248,
+      "position": [12.7822, -0.359118, 1.46681],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 196,
+      "up": 249,
+      "down": 247
+    },
+    {
+      "id": 249,
+      "position": [12.4502, 0.219548, 1.57936],
+      "molecule": "DNA",
+      "type": "Guanine",
+      "across": 197,
+      "up": 250,
+      "down": 248
+    },
+    {
+      "id": 250,
+      "position": [12.1182, 0.761066, 1.34637],
+      "molecule": "DNA",
+      "type": "Adenine",
+      "across": 198,
+      "up": 251,
+      "down": 249
+    },
+    {
+      "id": 251,
+      "position": [11.7862, 1.07724, 0.848826],
+      "molecule": "DNA",
+      "type": "Thymine",
+      "across": 199,
+      "up": 224,
+      "down": 250
+    }
+  ]
+}
