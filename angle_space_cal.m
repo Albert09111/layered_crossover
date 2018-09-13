@@ -104,6 +104,36 @@ for c2 = 1:6
     end
 end
 
+
+%%% hybrid calculation
+hybrid_angle = zeros(6,6);
+
+for c2 = 1:6
+    
+    horizental_vect = scaffold_helix1{1}-scaffold_helix1{3};
+    scaffold_lx1_pos = scaffold_helix1{c2};
+    
+    for c3 = 1:6
+        scaffold_lx2_pos = helper_helix2{c3};
+
+        scaffold_vect = scaffold_lx1_pos-scaffold_lx2_pos;
+        angle = 2*angle_cal(horizental_vect,scaffold_vect);
+        
+        if angle <90
+            angle = angle;
+        elseif angle >90
+            angle = 180-90;
+        end
+            
+        
+        hybrid_angle(c2,c3) = angle;
+        %disp(angle);
+    end
+    
+end
+
+
+
 Xtile_lable = {'1','2','3','4','5','6'};
 Ytile_lable = {'1','2','3','4','5','6'};
 
@@ -126,6 +156,15 @@ axis square;
 set(gca,'fontsize',24);
 title('crossover strand','fontsize',28);
 print(2,'-djpeg','-r600','figure_output/crossover_strand_design_space.jpeg')
+
+figure(3);
+imagesc(hybrid_angle);
+colorbar;
+caxis([5 95]);
+axis square;
+set(gca,'fontsize',24);
+title('crossovers on two types of strand','fontsize',28);
+print(3,'-djpeg','-r600','figure_output/hybrid_strand_design_space.jpeg')
 
 
 
